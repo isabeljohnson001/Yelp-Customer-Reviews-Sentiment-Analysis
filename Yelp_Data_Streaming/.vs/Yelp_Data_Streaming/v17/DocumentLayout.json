@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\jobs\\spark-streaming.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\src\\jobs\\spark-streaming.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\jobs\\streaming-socket.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\src\\jobs\\streaming-socket.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\config\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\src\\config\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\schemas\\reviews.schema.avsc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\src\\schemas\\reviews.schema.avsc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\Dockerfile.spark||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\src\\Dockerfile.spark||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\Yelp_Data_Streaming.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{762C91D2-779C-4303-B443-8764F62E04BB}|Yelp_Data_Streaming\\Yelp_Data_Streaming.pyproj|solutionrelative:Yelp_Data_Streaming\\Yelp_Data_Streaming.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\src\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\docker-compose.yml",
+              "RelativeToolTip": "Yelp_Data_Streaming\\src\\docker-compose.yml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-17T19:19:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile.spark",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\Dockerfile.spark",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\src\\Dockerfile.spark",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\Dockerfile.spark",
+              "RelativeToolTip": "Yelp_Data_Streaming\\src\\Dockerfile.spark",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T19:18:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reviews.schema.avsc",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\schemas\\reviews.schema.avsc",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\src\\schemas\\reviews.schema.avsc",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\schemas\\reviews.schema.avsc",
+              "RelativeToolTip": "Yelp_Data_Streaming\\src\\schemas\\reviews.schema.avsc",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T06:45:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\config\\config.py",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\src\\config\\config.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\config\\config.py",
+              "RelativeToolTip": "Yelp_Data_Streaming\\src\\config\\config.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-17T05:32:50.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "streaming-socket.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\jobs\\streaming-socket.py",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\src\\jobs\\streaming-socket.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\jobs\\streaming-socket.py",
+              "RelativeToolTip": "Yelp_Data_Streaming\\src\\jobs\\streaming-socket.py",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-17T05:02:07.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spark-streaming.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\jobs\\spark-streaming.py",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\src\\jobs\\spark-streaming.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\src\\jobs\\spark-streaming.py*",
+              "RelativeToolTip": "Yelp_Data_Streaming\\src\\jobs\\spark-streaming.py*",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-17T05:02:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Yelp_Data_Streaming.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\Yelp_Data_Streaming.py",
+              "RelativeDocumentMoniker": "Yelp_Data_Streaming\\Yelp_Data_Streaming.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Yelp_Data_Streaming\\Yelp_Data_Streaming\\Yelp_Data_Streaming.py",
+              "RelativeToolTip": "Yelp_Data_Streaming\\Yelp_Data_Streaming.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-17T04:04:08.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
